@@ -1,3 +1,2 @@
 # Notas
-
-Esta sección contiene diversos customsHooks
+In this React repository there are multiple custom hooks
